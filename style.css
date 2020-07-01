@@ -57,6 +57,9 @@ h2{
     width: 100%;
     
 }
+.align{
+    text-align: center;
+}
 .latest-work{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
